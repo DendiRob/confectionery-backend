@@ -1,0 +1,810 @@
+[{
+  "_id": {
+    "$oid": "64c12f5e03fb9ed7b07a13b0"
+  },
+  "title": "Пирожное'Безе воздушное'",
+  "proteins": 6.3,
+  "fats": 0.14,
+  "carbohydrates": 21,
+  "photoPath": "/pictures/300.jpg",
+  "productID": "300",
+  "energy": 106,
+  "expiration": 30,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1335803fb9ed7b07a13b1"
+  },
+  "title": "Пирожное'Безе' (воздушное с кремом)",
+  "proteins": 6.3,
+  "fats": 0.14,
+  "carbohydrates": 21,
+  "photoPath": "/pictures/300k.jpg",
+  "productID": "300k",
+  "expiration": 30,
+  "energy": 106,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1340e03fb9ed7b07a13b2"
+  },
+  "title": "Пирожное'Безе по-киевски'",
+  "proteins": 6.63,
+  "fats": 0.14,
+  "carbohydrates": 21,
+  "photoPath": "/pictures/316.jpg",
+  "productID": "316",
+  "expiration": 10,
+  "energy": 106,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c134d203fb9ed7b07a13b3"
+  },
+  "title": "Рулет'Нежность'",
+  "proteins": 7.1,
+  "fats": 43,
+  "carbohydrates": 43.2,
+  "photoPath": "/pictures/11.jpg",
+  "productID": "11",
+  "expiration": 10,
+  "energy": 360,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1363003fb9ed7b07a13b4"
+  },
+  "title": "Рулет бисквитный с творожным кремом",
+  "proteins": 7.1,
+  "fats": 43,
+  "carbohydrates": 43.2,
+  "photoPath": "/pictures/14.jpg",
+  "productID": "14",
+  "expiration": 10,
+  "energy": 348,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1369a03fb9ed7b07a13b5"
+  },
+  "title": "Печенье сдобное 'Чижик'",
+  "proteins": 7.9,
+  "fats": 51.5,
+  "carbohydrates": 44.1,
+  "photoPath": "/pictures/18.jpg",
+  "productID": "18",
+  "expiration": 5,
+  "energy": 450,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c136d803fb9ed7b07a13b6"
+  },
+  "title": "Печенье сдобное 'Золотой улей'",
+  "proteins": 7.2,
+  "fats": 41,
+  "carbohydrates": 44.1,
+  "photoPath": "/pictures/30.jpg",
+  "productID": "30",
+  "expiration": 5,
+  "energy": 370,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1376503fb9ed7b07a13b7"
+  },
+  "title": "Торт бисквитный со взбитыми сливками",
+  "proteins": 6.5,
+  "fats": 43,
+  "carbohydrates": 44,
+  "photoPath": "/pictures/81(4).jpg",
+  "productID": "81",
+  "expiration": 5,
+  "energy": 390,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c137df03fb9ed7b07a13b8"
+  },
+  "title": "Пирожное бисквитное 'Ночка'",
+  "proteins": 7.3,
+  "fats": 34.1,
+  "carbohydrates": 51.4,
+  "photoPath": "/pictures/83.jpg",
+  "productID": "83",
+  "expiration": 5,
+  "energy": 540,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1385d03fb9ed7b07a13b9"
+  },
+  "title": "Пирожное бисквитное (мини рулет) с кусочками яблока",
+  "proteins": 7.9,
+  "fats": 51.5,
+  "carbohydrates": 44.1,
+  "photoPath": "/pictures/204.jpg",
+  "productID": "204",
+  "expiration": 5,
+  "energy": 450,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1388e03fb9ed7b07a13ba"
+  },
+  "title": "Пирожное бисквитное (мини рулет) с кусочками груши",
+  "proteins": 7.9,
+  "fats": 51.5,
+  "carbohydrates": 44.1,
+  "photoPath": "/pictures/205.jpg",
+  "productID": "205",
+  "expiration": 5,
+  "energy": 450,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c138e403fb9ed7b07a13bb"
+  },
+  "title": "Пирожное сдобное 'Тирамису'",
+  "proteins": 6.63,
+  "fats": 52,
+  "carbohydrates": 59,
+  "photoPath": "/pictures/233.jpg",
+  "productID": "233",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1395f03fb9ed7b07a13bc"
+  },
+  "title": "Рулет бисквитный (мини) со взбитыми сливками 'ТРИО'",
+  "proteins": 7.1,
+  "fats": 43,
+  "carbohydrates": 43.2,
+  "photoPath": "/pictures/320.jpg",
+  "productID": "320",
+  "expiration": 10,
+  "energy": 348,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c139b603fb9ed7b07a13bd"
+  },
+  "title": "Торт бисквитный 'Пражский'",
+  "proteins": 7.1,
+  "fats": 43,
+  "carbohydrates": 43.2,
+  "photoPath": "/pictures/323.jpg",
+  "productID": "323",
+  "expiration": 10,
+  "energy": 348,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13be303fb9ed7b07a13be"
+  },
+  "title": "Печенье сдобное 'Мечта'",
+  "proteins": 7.1,
+  "fats": 49,
+  "carbohydrates": 59.5,
+  "photoPath": "/pictures/7.jpg",
+  "productID": "7",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13c2703fb9ed7b07a13bf"
+  },
+  "title": "Печенье сдобное 'Эклер'",
+  "proteins": 7.1,
+  "fats": 49,
+  "carbohydrates": 51,
+  "photoPath": "/pictures/9.jpg",
+  "productID": "9",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13c8103fb9ed7b07a13c0"
+  },
+  "title": "Печенье сдобное 'Эклерчики' с начинкой 'Тирамису'",
+  "proteins": 7.1,
+  "fats": 52,
+  "carbohydrates": 59,
+  "photoPath": "/pictures/34t-38.jpg",
+  "productID": "34t",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13cc003fb9ed7b07a13c1"
+  },
+  "title": "Печенье сдобное 'Эклерчики' с клубнично-сливочной начинкой",
+  "proteins": 7.1,
+  "fats": 52,
+  "carbohydrates": 59,
+  "photoPath": "/pictures/34t-38.jpg",
+  "productID": "38",
+  "expiration": 7,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13d2003fb9ed7b07a13c2"
+  },
+  "title": "Печенье сдобное 'Кольцо с творожной начинкой'",
+  "proteins": 7.1,
+  "fats": 49,
+  "carbohydrates": 59.6,
+  "photoPath": "/pictures/77.jpg",
+  "productID": "77",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13d8003fb9ed7b07a13c3"
+  },
+  "title": "Эклер со сгущенкой 'Дюймовочка'",
+  "proteins": 7.1,
+  "fats": 52,
+  "carbohydrates": 59,
+  "photoPath": "/pictures/10.jpg",
+  "productID": "10",
+  "expiration": 10,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c13dd403fb9ed7b07a13c4"
+  },
+  "title": "Печенье сдобное 'Эклерчики' со сливочной начинкой",
+  "proteins": 7.1,
+  "fats": 52,
+  "carbohydrates": 59,
+  "photoPath": "/pictures/34s.jpg",
+  "productID": "34s",
+  "expiration": 5,
+  "energy": 175,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1423003fb9ed7b07a13c5"
+  },
+  "title": "Кекс творожный",
+  "proteins": 7.3,
+  "fats": 46.8,
+  "carbohydrates": 48.5,
+  "photoPath": "/pictures/61.jpg",
+  "productID": "61",
+  "expiration": 20,
+  "energy": 348,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c142d403fb9ed7b07a13c7"
+  },
+  "title": "Кекс 'Творожный с изюмом'",
+  "proteins": 7.3,
+  "fats": 46.8,
+  "carbohydrates": 48.5,
+  "photoPath": "/pictures/62.jpg",
+  "productID": "62",
+  "expiration": 20,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1430c03fb9ed7b07a13c8"
+  },
+  "title": "Кекс 'Столичный'",
+  "proteins": 7.3,
+  "fats": 46.8,
+  "carbohydrates": 48.5,
+  "photoPath": "/pictures/63.jpg",
+  "productID": "63",
+  "expiration": 20,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1441303fb9ed7b07a13c9"
+  },
+  "title": "Печенье сдобное 'Чебурашка'",
+  "proteins": 7,
+  "fats": 49.4,
+  "carbohydrates": 46.5,
+  "photoPath": "/pictures/15.jpg",
+  "productID": "15",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c144b403fb9ed7b07a13ca"
+  },
+  "title": "Печенье сдобное 'Звездочки'",
+  "proteins": 7.3,
+  "fats": 46.8,
+  "carbohydrates": 48.5,
+  "photoPath": "/pictures/74.jpg",
+  "productID": "74",
+  "expiration": 15,
+  "energy": 250,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c144fd03fb9ed7b07a13cb"
+  },
+  "title": "Печенье сдобное 'Деревенское'",
+  "proteins": 7,
+  "fats": 49.4,
+  "carbohydrates": 46.5,
+  "photoPath": "/pictures/86.jpg",
+  "productID": "86",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1456c03fb9ed7b07a13cc"
+  },
+  "title": "Печенье сдобное 'Лакомка'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/88-89-88k-88ch.jpg",
+  "productID": "88",
+  "expiration": 30,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c145b703fb9ed7b07a13cd"
+  },
+  "title": "Печенье сдобное 'Лакомка' с курагой",
+  "proteins": 29.8,
+  "fats": 4.1,
+  "carbohydrates": 30.3,
+  "photoPath": "/pictures/88-89-88k-88ch.jpg",
+  "productID": "88k",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c145ed03fb9ed7b07a13ce"
+  },
+  "title": "Печенье сдобное 'Лакомка' с черносливом",
+  "proteins": 29.8,
+  "fats": 4.1,
+  "carbohydrates": 30.3,
+  "photoPath": "/pictures/88-89-88k-88ch.jpg",
+  "productID": "88ch",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c1464503fb9ed7b07a13cf"
+  },
+  "title": "Печенье сдобное 'Лакомка с творожной начинкой'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/88-89-88k-88ch.jpg",
+  "productID": "89",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c21e90490b92562497cf78"
+  },
+  "title": "Печенье сдобное ванильно-смородиновое'Смородинка'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/90.jpg",
+  "productID": "90",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c21ef8490b92562497cf79"
+  },
+  "title": "Печенье сдобное 'Рогалик с варёной сгущенкой'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/127-129-130.jpg",
+  "productID": "127",
+  "expiration": 30,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c21fdb490b92562497cf7a"
+  },
+  "title": "Печенье сдобное 'Гусиные лапки'",
+  "proteins": 7,
+  "fats": 49.4,
+  "carbohydrates": 46.5,
+  "photoPath": "/pictures/140.jpg",
+  "productID": "140",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c220ae490b92562497cf7b"
+  },
+  "title": "Печенье сдобное 'Фруктовый калейдоскоп'",
+  "proteins": 3.7,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/250.jpg",
+  "productID": "250",
+  "expiration": 20,
+  "energy": 399,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c2210d490b92562497cf7c"
+  },
+  "title": "Печенье сдобное 'Снежинка'",
+  "proteins": 6.63,
+  "fats": 16.67,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/306.jpg",
+  "productID": "306",
+  "expiration": 30,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c2218b490b92562497cf7d"
+  },
+  "title": "Печенье сдобное 'Рогалик с кусочками вишни'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/122-123-125-78.jpg",
+  "productID": "122",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c221b8490b92562497cf7e"
+  },
+  "title": "Печенье сдобное 'Рогалик с творогом'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/122-123-125-78.jpg",
+  "productID": "123",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c221f6490b92562497cf7f"
+  },
+  "title": "Печенье сдобное 'Рогалик с курагой'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/122-123-125-78.jpg",
+  "productID": "125",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22231490b92562497cf80"
+  },
+  "title": "Печенье сдобное 'Рогалик с черносливом'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/122-123-125-78.jpg",
+  "productID": "78",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c222a7490b92562497cf81"
+  },
+  "title": "Печенье сдобное с кусочками лимона",
+  "proteins": 7,
+  "fats": 49.3,
+  "carbohydrates": 46.3,
+  "photoPath": "/pictures/159.jpg",
+  "productID": "159",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c2233f490b92562497cf82"
+  },
+  "title": "Печенье сдобное 'Загадка' с фруктовой начинкой",
+  "proteins": 6.63,
+  "fats": 16.17,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/115-116-117.jpg",
+  "productID": "115",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22360490b92562497cf83"
+  },
+  "title": "Печенье сдобное 'Загадка' с творожной начинкой",
+  "proteins": 6.63,
+  "fats": 16.17,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/115-116-117.jpg",
+  "productID": "116",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c223d0490b92562497cf84"
+  },
+  "title": "Печенье сдобное 'Загадка' с шоколадной начинкой",
+  "proteins": 6.63,
+  "fats": 16.17,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/115-116-117.jpg",
+  "productID": "117",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22452490b92562497cf85"
+  },
+  "title": "Печенье сдобное 'Наполеон'",
+  "proteins": 7.9,
+  "fats": 51.5,
+  "carbohydrates": 44.1,
+  "photoPath": "/pictures/39.jpg",
+  "productID": "39",
+  "expiration": 10,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c224b5490b92562497cf86"
+  },
+  "title": "Печенье слоеное 'Язык с сахаром'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/72-73.jpg",
+  "productID": "72",
+  "expiration": 30,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22542490b92562497cf87"
+  },
+  "title": "Печенье слоеное 'Язык с вареной сгущенкой'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/72-73.jpg",
+  "productID": "73",
+  "expiration": 30,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c225a7490b92562497cf88"
+  },
+  "title": "Печенье слоеное с йогуртовой начинкой и изюмом",
+  "proteins": 6.63,
+  "fats": 16.67,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/95.jpg",
+  "productID": "95",
+  "expiration": 20,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22637490b92562497cf89"
+  },
+  "title": "Печенье слоеное 'Слойка с кусочками яблока'",
+  "proteins": 3.7,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/121ia-121v.jpg",
+  "productID": "121ia",
+  "expiration": 20,
+  "energy": 399,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c2265d490b92562497cf8a"
+  },
+  "title": "Печенье слоеное 'Слойка с кусочками вишни'",
+  "proteins": 3.7,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/121ia-121v.jpg",
+  "productID": "121v",
+  "expiration": 20,
+  "energy": 399,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c226c9490b92562497cf8b"
+  },
+  "title": "Печенье слоеное 'Косичка домашняя' с кусочками яблока",
+  "proteins": 6.63,
+  "fats": 16.67,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/131-132.jpg",
+  "productID": "131",
+  "expiration": 10,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c226eb490b92562497cf8c"
+  },
+  "title": "Печенье слоеное 'Косичка домашняя' с кусочками лимона",
+  "proteins": 6.63,
+  "fats": 16.67,
+  "carbohydrates": 42,
+  "photoPath": "/pictures/131-132.jpg",
+  "productID": "132",
+  "expiration": 10,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c2272f490b92562497cf8d"
+  },
+  "title": "Печенье слоеное 'Слойка с творогом'",
+  "proteins": 4.1,
+  "fats": 29,
+  "carbohydrates": 30.9,
+  "photoPath": "/pictures/93.jpg",
+  "productID": "93",
+  "expiration": 15,
+  "energy": 359,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+},
+{
+  "_id": {
+    "$oid": "64c22797490b92562497cf8e"
+  },
+  "title": "Печенье сдобное 'Штрудель творожный'",
+  "proteins": 7,
+  "fats": 49.3,
+  "carbohydrates": 46.3,
+  "photoPath": "/pictures/156.jpg",
+  "productID": "156",
+  "expiration": 15,
+  "energy": 350,
+  "price": "there is price",
+  "composition": "there is describe the composition"
+}]

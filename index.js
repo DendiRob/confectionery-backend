@@ -1,15 +1,17 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const productRouter = require('./routes/product-routes');
-const path = require('path');
 
 const PORT = 3004;
 const URL = 'mongodb://localhost:27017/confectioneryDB';
 
 
 const app = express();
+
+
 app.use(express.static('backend'));
-app.use('/pictures', express.static('pictures'))
+app.use('/pictures',express.static('pictures'))
+
 app.use(express.json())
 app.use(productRouter)
 
