@@ -1,5 +1,9 @@
 const Product = require('../models/product');
 
+const handleError = (res, error) => {
+    res.status(500).json({error})
+}
+
 const getAllProducts = (req,res) => {
     Product
         .find()
@@ -8,12 +12,7 @@ const getAllProducts = (req,res) => {
                 .status(200)
                 .json(product)
         })
-        .catch((err) => {
-            res
-                .status(500)
-                console.log(err)
-
-        })
+        .catch((err) => handleError(res, err))
 };
 const getSumProducts = (req,res) => {
     Product
@@ -23,12 +22,7 @@ const getSumProducts = (req,res) => {
                 .status(200)
                 .json(product)
         })
-        .catch((err) => {
-            res
-                .status(500)
-                console.log(err)
-
-        })
+        .catch((err) => handleError(res, err))
 };
 const getSomeProductsForCatalog = (req,res) => {
 
@@ -41,16 +35,23 @@ const getSomeProductsForCatalog = (req,res) => {
                 .status(200)
                 .json(product)
         })
-        .catch((err) => {
-            res
-                .status(500)
-                console.log(err)
+        .catch((err) => handleError(res, err))
+}
 
-        })
+const getProductById = (req, res) => {
+    Product
+    .find({"productID": `${req.params.id}`})
+    .then((product) => {
+        res
+            .status(200)
+            .json(product)
+    })
+    .catch((err) => handleError(res, err))
 }
 
 module.exports = {
     getAllProducts,
     getSomeProductsForCatalog,
     getSumProducts,
+    getProductById,
 }
