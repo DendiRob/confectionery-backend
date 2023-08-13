@@ -10,7 +10,7 @@ const router = express.Router();
 
 
 router.get('/products', getAllProducts)
-router.get('/products/sum', getSumProducts)
+router.get('/products/sum', getSumProducts) 
 router.get('/products/catalog', getSomeProductsForCatalog )
 router.get('/products/:id', getProductById)
 
