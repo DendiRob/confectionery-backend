@@ -19,7 +19,10 @@ app.use(express.json())
 app.use(productRouter)
 
 mongoose
-    .connect(URL)
+    .connect(URL, {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+    })
     .then(() => console.log('Connected to DB'))
     .catch((err) => console.log(err))
 
