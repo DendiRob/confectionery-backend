@@ -11,7 +11,8 @@
   "energy": 106,
   "expiration": 30,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Пирожное 'Безе воздушное' – это изысканное лакомство, которое сочетает в себе нежную текстуру, невероятный вкус и элегантный вид. Это пирожное не только удовлетворяет желание сладости, но и создает настоящий шедевр в мире кондитерского искусства."
 },
 {
   "_id": {
@@ -26,7 +27,8 @@
   "expiration": 30,
   "energy": 106,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Пирожное 'Безе' (воздушное с кремом) – это искусство объединения нежной легкости безе с невероятным богатством вкуса крема. Это пирожное является идеальным балансом текстур и вкусовых нюансов, создавая неповторимое удовольствие для всех чувств."
 },
 {
   "_id": {
@@ -41,7 +43,8 @@
   "expiration": 10,
   "energy": 106,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Пирожное 'Безе по-киевски' – это гастрономическое путешествие в самобытный мир украинской кухни, воплощенное в изысканном десерте. Это уникальное сочетание нежного безе с традиционными ингредиентами, которые придают ему неповторимый вкус и аутентичный характер."
 },
 {
   "_id": {
@@ -56,7 +59,8 @@
   "expiration": 10,
   "energy": 360,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Рулет 'Нежность' – это изысканное воплощение нежности и вкуса в каждом кусочке. Этот десерт предлагает идеальное сочетание мягкости текстуры, обволакивающего крема и насыщенности ароматов, создавая неповторимый вкусовой опыт."
 },
 {
   "_id": {
@@ -71,7 +75,8 @@
   "expiration": 10,
   "energy": 348,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Рулет бисквитный с творожным кремом – это удивительное сочетание нежного бисквитного коржа и нежного творожного крема, создающее неповторимое вкусовое путешествие. Этот десерт объединяет в себе классическую основу с богатыми текстурами и ароматами."
 },
 {
   "_id": {
@@ -86,7 +91,8 @@
   "expiration": 5,
   "energy": 450,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Чижик' – это вкусное и уютное угощение, которое приносит радость и тепло в каждый момент. Это печенье с нежной текстурой и изысканным вкусом, созданное для того, чтобы порадовать вас и ваши вкусовые рецепторы."
 },
 {
   "_id": {
@@ -101,7 +107,8 @@
   "expiration": 5,
   "energy": 370,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Золотой улей' – это волшебное угощение, которое переносит вас в мир сказки и роскоши. Это печенье с изысканным вкусом и уникальным дизайном, созданное для того, чтобы добавить нотку роскоши в вашу повседневность."
 },
 {
   "_id": {
@@ -116,7 +123,8 @@
   "expiration": 5,
   "energy": 390,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Торт бисквитный со взбитыми сливками – это нежное и воздушное лакомство, объединяющее классический бисквитный корж и нежные взбитые сливки. Этот торт – идеальное сочетание текстур и вкусов, созданное для того, чтобы пленить ваше чувство вкуса."
 },
 {
   "_id": {
@@ -131,7 +139,8 @@
   "expiration": 5,
   "energy": 540,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Пирожное бисквитное 'Ночка' – это сладкое удовольствие, которое приносит вечерний очарование в каждый укус. Это пирожное с нежным бисквитным коржем, обволакивающим вас нежностью и вкусовыми наслаждениями."
 },
 {
   "_id": {
@@ -146,7 +155,8 @@
   "expiration": 5,
   "energy": 450,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Попробуйте мини-рулет с яблоком и насладитесь идеальным балансом сладости и свежести. Дайте себе возможность насладиться вкусовой гармонией бисквитного пирожного и сочных яблочных кусочков, которые добавят яркости в ваш день."
 },
 {
   "_id": {
@@ -161,7 +171,8 @@
   "expiration": 5,
   "energy": 450,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Попробуйте мини-рулет с кусочками груши и погрузитесь в сочное фруктовое наслаждение. Дайте себе возможность насладиться приятной гармонией бисквитного пирожного и ароматных кусочков груши, чтобы создать незабываемое кулинарное впечатление."
 },
 {
   "_id": {
@@ -176,7 +187,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Пирожное сдобное 'Тирамису' – это изысканное угощение, вдохновленное классическим итальянским десертом. Это пирожное, которое сочетает в себе нежный сдобный корж, пропитанный ароматным кофейным сиропом, и крем с тонкими нотами маскарпоне."
 },
 {
   "_id": {
@@ -191,7 +203,8 @@
   "expiration": 10,
   "energy": 348,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Рулет бисквитный (мини) со взбитыми сливками 'ТРИО' – это утонченное и вкусное угощение, которое объединяет в себе три изысканных вкуса. Этот мини-рулет представляет собой нежный бисквит с разнообразными начинками из взбитых сливок, создавая яркий вкусовой опыт."
 },
 {
   "_id": {
@@ -206,7 +219,8 @@
   "expiration": 10,
   "energy": 348,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Торт бисквитный 'Пражский' – это изысканное и элегантное угощение, которое приносит вам атмосферу старинного города и нежных вкусов. Этот бисквитный торт объединяет в себе мягкие коржи, ароматные начинки и изысканный дизайн."
 },
 {
   "_id": {
@@ -221,7 +235,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Мечта' – это нежное и ароматное угощение, которое приносит вам вкусовую радость и моменты настоящего наслаждения. Это печенье с изысканной текстурой и восхитительным вкусом, созданное для того, чтобы погрузить вас в сладкие мечты."
 },
 {
   "_id": {
@@ -236,7 +251,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Эклер' – это изысканное угощение, которое переносит вас в мир французских десертов и наслаждения. Это печенье с нежной текстурой и изысканным вкусом, созданное вдохновением классического эклера."
 },
 {
   "_id": {
@@ -251,7 +267,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Эклерчики' с начинкой 'Тирамису' – это роскошное и вкусное угощение, которое объединяет в себе две изысканные итальянские деликатесы. Это печенье с нежной текстурой и насыщенным вкусом, вдохновленное классическим тирамису."
 },
 {
   "_id": {
@@ -266,7 +283,8 @@
   "expiration": 7,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Эклерчики' с клубнично-сливочной начинкой – это восхитительное лакомство, которое сочетает в себе нежное печенье с яркой клубничной начинкой и нежными сливочными нотками."
 },
 {
   "_id": {
@@ -281,7 +299,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Кольцо с творожной начинкой' – это утонченное угощение, объединяющее в себе нежное сдобное печенье в форме кольца и нежную творожную начинку."
 },
 {
   "_id": {
@@ -296,7 +315,8 @@
   "expiration": 10,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Эклер со сгущенкой 'Дюймовочка' – это нежное и сладкое угощение, которое сочетает в себе легкий эклер с нежной начинкой из сгущенного молока. Этот десерт приносит радость и воспоминания о детстве."
 },
 {
   "_id": {
@@ -311,7 +331,8 @@
   "expiration": 5,
   "energy": 175,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Окунитесь в мир нежности и вкуса с печеньем сдобным 'Эклерчики' со сливочной начинкой. Позвольте себе насладиться балансом текстур и вкусов, чтобы добавить немного сладости в свою жизнь."
 },
 {
   "_id": {
@@ -326,7 +347,8 @@
   "expiration": 20,
   "energy": 348,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Попробуйте настоящий вкус творога в виде кекса творожного. Дайте себе возможность насладиться уютной атмосферой домашнего угощения, где мягкость творога сочетается с нежностью кекса."
 },
 {
   "_id": {
@@ -341,7 +363,8 @@
   "expiration": 20,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Кекс 'Творожный с изюмом' – это обильное и ароматное угощение, которое сочетает в себе нежность творога с ароматными нотками сладкого изюма."
 },
 {
   "_id": {
@@ -356,7 +379,8 @@
   "expiration": 20,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Кекс 'Столичный' – это уникальное и многогранное угощение, которое воплощает в себе богатство вкусов и атмосферу столичного образа жизни. Этот великолепный кекс является настоящим гастрономическим путешествием, проводящим вас через разнообразие вкусов и ароматов, характерных для столицы."
 },
 {
   "_id": {
@@ -371,7 +395,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Чебурашка' – это волшебное угощение, вдохновленное знаменитым персонажем, которое сочетает в себе нежное сдобное печенье с ароматными нотками сладкой ванили."
 },
 {
   "_id": {
@@ -386,7 +411,8 @@
   "expiration": 15,
   "energy": 250,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Звездочки' – это угощение, которое словно переносит вас под сияние звездного неба, сочетая в себе нежное сдобное печенье в форме звездочек и ароматные вкусовые нотки."
 },
 {
   "_id": {
@@ -401,7 +427,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Деревенское' – это прекрасное угощение, которое переносит вас в атмосферу деревенской уютности, объединяя в себе нежное сдобное печенье с теплыми и натуральными вкусами."
 },
 {
   "_id": {
@@ -416,7 +443,8 @@
   "expiration": 30,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Лакомка' – это непревзойденное угощение, которое воплощает в себе сладкую страсть и наслаждение, сочетая нежное сдобное печенье с интригующими вкусовыми нотками."
 },
 {
   "_id": {
@@ -431,7 +459,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Лакомка' с курагой – это утонченное и соблазнительное угощение, которое сочетает в себе изысканное сдобное печенье с яркими нотками сладкой и сочной кураги."
 },
 {
   "_id": {
@@ -446,7 +475,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Лакомка' с черносливом – это утонченное и аппетитное угощение, которое сочетает в себе изысканное сдобное печенье с богатыми и сладкими нотками чернослива."
 },
 {
   "_id": {
@@ -461,7 +491,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Лакомка' с творожной начинкой – это изысканное и нежное угощение, которое сочетает в себе ароматное сдобное печенье с нежной и кремовой творожной начинкой."
 },
 {
   "_id": {
@@ -476,7 +507,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное ванильно-смородиновое 'Смородинка' – это восхитительное угощение, объединяющее в себе нежное сдобное печенье с яркими нотками ванили и сладкой смородины."
 },
 {
   "_id": {
@@ -491,7 +523,8 @@
   "expiration": 30,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Рогалик с варёной сгущенкой' – это изысканное и невероятно аппетитное угощение, которое сочетает в себе нежное сдобное печенье в форме рогалика с нежной и сладкой начинкой из варёной сгущенки."
 },
 {
   "_id": {
@@ -506,7 +539,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Гусиные лапки' – это очаровательное угощение, которое привносит в ваш день нежность и ностальгию, сочетая в себе мягкое сдобное печенье в форме гусиных лапок с теплыми и уютными вкусовыми нотками."
 },
 {
   "_id": {
@@ -521,7 +555,8 @@
   "expiration": 20,
   "energy": 399,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Фруктовый калейдоскоп' – это яркое и вкусное угощение, которое сочетает в себе нежное сдобное печенье с разнообразными фруктовыми вкусами, создавая настоящий праздник вкусов."
 },
 {
   "_id": {
@@ -536,7 +571,8 @@
   "expiration": 30,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Снежинка' – это нежное и волшебное угощение, которое приносит в ваш день ощущение зимней сказки и легкости, объединяя в себе хрустящее сдобное печенье в форме снежинки с деликатным вкусом."
 },
 {
   "_id": {
@@ -551,7 +587,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Рогалик с кусочками вишни' – это восхитительное и ароматное угощение, которое сочетает в себе нежное сдобное печенье в форме рогалика с яркими и сочными кусочками вишни."
 },
 {
   "_id": {
@@ -566,7 +603,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Рогалик с творогом' – это изысканное и нежное угощение, которое объединяет хрустящее сдобное печенье в форме рогалика с нежной и кремовой начинкой из творога."
 },
 {
   "_id": {
@@ -581,7 +619,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Рогалик с курагой' – это утонченное и ароматное угощение, которое объединяет хрустящее сдобное печенье в форме рогалика с натуральной сладостью и ароматом кураги."
 },
 {
   "_id": {
@@ -596,7 +635,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Рогалик с черносливом' – это изысканное и насыщенное угощение, которое сочетает в себе хрустящее сдобное печенье в форме рогалика с натуральными кусочками сочного чернослива."
 },
 {
   "_id": {
@@ -611,7 +651,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное с кусочками лимона – это свежее и ароматное угощение, которое приносит в ваш день яркий цитрусовый акцент и сочетает в себе хрустящее сдобное печенье с освежающими кусочками лимона."
 },
 {
   "_id": {
@@ -626,7 +667,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Загадка' с фруктовой начинкой – это таинственное и вкусное угощение, которое предлагает вам разгадать секреты вкусов и наслаждаться нежной сдобной текстурой в сочетании с разнообразной фруктовой начинкой."
 },
 {
   "_id": {
@@ -641,7 +683,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Загадка' с творожной начинкой – это загадочное и изысканное угощение, которое сочетает в себе хрустящее сдобное печенье с нежной и кремовой начинкой из творога, приглашая вас на настоящее гастрономическое приключение."
 },
 {
   "_id": {
@@ -656,7 +699,8 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Загадка' с шоколадной начинкой – это загадочное и чарующее угощение, которое объединяет хрустящее сдобное печенье с насыщенной и глубокой шоколадной начинкой, принося вам неповторимый вкусовой опыт."
 },
 {
   "_id": {
@@ -671,7 +715,8 @@
   "expiration": 10,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Наполеон' – это изысканное и нежное угощение, которое вдохновлено классическим десертом 'Наполеон'. Оно сочетает в себе хрустящее сдобное печенье с слоистой начинкой, принося вам вкусовую палитру итальянского шарма."
 },
 {
   "_id": {
@@ -686,7 +731,8 @@
   "expiration": 30,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Язык с сахаром' – это изысканное и хрустящее угощение, которое сочетает в себе тонкие слои слоеного теста с нежной начинкой из сахара, принося вам непередаваемое удовольствие от каждого укуса."
 },
 {
   "_id": {
@@ -701,7 +747,8 @@
   "expiration": 30,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Язык с вареной сгущенкой' – это изысканное и нежное угощение, которое сочетает в себе тонкие слои слоеного теста с нежной и сладкой начинкой из вареной сгущенки, принося вам непередаваемое удовольствие от каждого укуса."
 },
 {
   "_id": {
@@ -716,7 +763,8 @@
   "expiration": 20,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное с йогуртовой начинкой и изюмом – это свежее и нежное угощение, которое сочетает в себе тонкие слои слоеного теста с кремовой йогуртовой начинкой и натуральными изюминками, принося вам вкусовое удовольствие и освежающее настроение."
 },
 {
   "_id": {
@@ -731,7 +779,8 @@
   "expiration": 20,
   "energy": 399,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Слойка с кусочками яблока' – это свежее и ароматное угощение, которое объединяет в себе тонкие слои слоеного теста с нежными кусочками сочного яблока, принося вам вкусовое удовольствие и приятную освежающую нотку."
 },
 {
   "_id": {
@@ -746,7 +795,8 @@
   "expiration": 20,
   "energy": 399,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Слойка с кусочками вишни' – это изысканное и ароматное угощение, которое сочетает в себе тонкие слои слоеного теста с сочными кусочками вишни, принося вам непередаваемое вкусовое удовольствие и ягодную свежесть."
 },
 {
   "_id": {
@@ -761,7 +811,8 @@
   "expiration": 10,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Косичка домашняя' с кусочками яблока – это уютное и ароматное угощение, которое вдохновлено домашним уютом и сочетает в себе тонкие слои слоеного теста, создающие форму косички, и нежные кусочки сочного яблока, принося вам непередаваемое вкусовое удовольствие и теплую атмосферу."
 },
 {
   "_id": {
@@ -776,7 +827,8 @@
   "expiration": 10,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Косичка домашняя' с кусочками лимона – это уникальное и освежающее угощение, которое вдохновлено домашними традициями и объединяет в себе тонкие слои слоеного теста, создающие форму косички, и яркие кусочки свежего лимона, принося вам неповторимый вкусовой опыт и яркое ощущение летней свежести."
 },
 {
   "_id": {
@@ -791,7 +843,8 @@
   "expiration": 15,
   "energy": 359,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье слоеное 'Слойка с творогом' – это изысканное и нежное угощение, которое сочетает в себе тонкие слои слоеного теста с нежной начинкой из творога, принося вам непередаваемое вкусовое удовольствие и нежность на каждом укусе."
 },
 {
   "_id": {
@@ -806,5 +859,6 @@
   "expiration": 15,
   "energy": 350,
   "price": "2951",
-  "composition": "there is describe the composition"
+  "composition": "there is describe the composition",
+  "description": "Печенье сдобное 'Штрудель творожный' – это уникальное и ароматное угощение, которое вдохновлено классическим штруделем и сочетает в себе нежное сдобное печенье с творожной начинкой, принося вам вкусовое наслаждение и воспоминания о домашней выпечке."
 }]
