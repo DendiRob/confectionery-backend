@@ -1,7 +1,10 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const productRouter = require('./routes/product-routes');
+const mailRouter = require('./routes/mail-routes')
 const cors = require('cors');
+require('dotenv').config();
+
 
 
 const PORT = 3004;
@@ -14,9 +17,11 @@ const app = express();
 app.use(express.static('backend'));
 app.use('/pictures',express.static('pictures'))
 
-app.use(cors())
-app.use(express.json())
-app.use(productRouter)
+app.use(cors());
+app.use(express.json());
+app.use(productRouter);
+app.use(mailRouter);
+
 
 mongoose
     .connect(URL)
