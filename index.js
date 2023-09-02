@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const productRouter = require('./routes/product-routes');
+const vacancyRouter = require('./routes/vacancy-routes');
 const mailRouter = require('./routes/mail-routes')
 const cors = require('cors');
 require('dotenv').config();
@@ -20,6 +21,7 @@ app.use('/pictures',express.static('pictures'))
 app.use(cors());
 app.use(express.json());
 app.use(productRouter);
+app.use(vacancyRouter);
 app.use(mailRouter);
 
 
@@ -43,4 +45,3 @@ app.listen(PORT, (err) => {
 
     console.log('Server started')
 })
-//версия 0.5
