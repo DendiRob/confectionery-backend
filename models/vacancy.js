@@ -14,7 +14,7 @@ const VacancySchema = new mongoose.Schema({
         required: true,
     },
     requirements:{
-        type: Number,
+        type: Array,
         required: true,
     },
     salary:{

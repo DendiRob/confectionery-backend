@@ -14,7 +14,18 @@ const getAllVacancies = (req,res) => {
         })
         .catch((err) => handleError(res, err))
 };
+const getSingleVacancy = (req,res) => {
+    Vacancy
+        .find({"_id": `${req.params.id}`})
+        .then((vacancy) => {
+            res
+                .status(200)
+                .json(vacancy)
+        })
+        .catch((err) => handleError(res, err))
+};
 
 module.exports = {
     getAllVacancies,
+    getSingleVacancy
 }
