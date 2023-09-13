@@ -1,11 +1,10 @@
-FROM node:14
-
+FROM node:18
 WORKDIR /confectionery-backend
 
 COPY package*.json ./
 
-ARG MONGODB_URI=development
-ENV MONGODB_URI=${MONGODB_URI}
+
+ENV MONGODB_URI=somedefault
 
 RUN npm install
 
