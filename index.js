@@ -13,8 +13,6 @@ const URL = process.env.MONGODB_URI;
 
 const app = express();
 
-
-
 app.use(express.static('backend'));
 app.use('/pictures',express.static('pictures'))
 
