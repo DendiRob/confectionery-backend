@@ -1,5 +1,4 @@
-const nodemailer = require('nodemailer');
-
+import nodemailer from 'nodemailer'
 
 const sendOrder =  (req,res) => {
      
@@ -116,6 +115,6 @@ const sendOrder =  (req,res) => {
 
 };
 
-module.exports = {
+export {
     sendOrder,
 }

@@ -1,4 +1,4 @@
-const Product = require('../models/product');
+import Product from "../models/product.js";
 
 const handleError = (res, error) => {
     res.status(500).json({error})
@@ -49,7 +49,7 @@ const getProductById = (req, res) => {
     .catch((err) => handleError(res, err))
 }
 
-module.exports = {
+export {
     getAllProducts,
     getSomeProductsForCatalog,
     getSumProducts,

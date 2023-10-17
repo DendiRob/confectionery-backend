@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from "mongoose";
 
 const VacancySchema = new mongoose.Schema({
     title: {
@@ -33,4 +33,4 @@ const VacancySchema = new mongoose.Schema({
 
 const Vacancy = mongoose.model('Vacancy',VacancySchema);
 
-module.exports = Vacancy;
+export default Vacancy

@@ -1,4 +1,4 @@
-const Vacancy = require('../models/vacancy');
+import Vacancy from '../models/vacancy.js';
 
 const handleError = (res, error) => {
     res.status(500).json({error})
@@ -25,7 +25,7 @@ const getSingleVacancy = (req,res) => {
         .catch((err) => handleError(res, err))
 };
 
-module.exports = {
+export {
     getAllVacancies,
     getSingleVacancy
 }

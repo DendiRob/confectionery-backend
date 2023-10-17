@@ -1,9 +1,9 @@
-const express = require('express');
+import express from'express';
 
-const {
+import {
     getAllVacancies,
     getSingleVacancy,
-} = require('../controllers/vacancy-controller');
+} from '../controllers/vacancy-controller.js';
 
 const router = express.Router();
 
@@ -11,6 +11,4 @@ router.get('/vacancies', getAllVacancies);
 router.get('/vacancies/:id', getSingleVacancy);
 
 
-
-
-module.exports = router;
+export default router;
