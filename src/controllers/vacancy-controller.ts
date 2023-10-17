@@ -1,10 +1,11 @@
 import Vacancy from '../models/vacancy.js';
+import { Request, Response } from 'express';
 
-const handleError = (res, error) => {
+const handleError = (res: Response, error: Error) => {
     res.status(500).json({error})
 }
 
-const getAllVacancies = (req,res) => {
+const getAllVacancies = (req: Request, res: Response) => {
     Vacancy
         .find()
         .then((vacancy) => {
@@ -14,7 +15,7 @@ const getAllVacancies = (req,res) => {
         })
         .catch((err) => handleError(res, err))
 };
-const getSingleVacancy = (req,res) => {
+const getSingleVacancy = (req: Request,res: Response) => {
     Vacancy
         .find({"_id": `${req.params.id}`})
         .then((vacancy) => {

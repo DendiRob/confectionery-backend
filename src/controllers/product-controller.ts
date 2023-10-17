@@ -1,10 +1,12 @@
 import Product from "../models/product.js";
+import { Request, Response, request } from 'express';
 
-const handleError = (res, error) => {
+
+const handleError = (res: Response, error: Error) => {
     res.status(500).json({error})
 }
 
-const getAllProducts = (req,res) => {
+const getAllProducts = (req: Request, res: Response) => {
     Product
         .find()
         .then((product) => {
@@ -14,7 +16,7 @@ const getAllProducts = (req,res) => {
         })
         .catch((err) => handleError(res, err))
 };
-const getSumProducts = (req,res) => {
+const getSumProducts = (req: Request,res: Response) => {
     Product
         .find().count()
         .then((product) => {
@@ -24,11 +26,13 @@ const getSumProducts = (req,res) => {
         })
         .catch((err) => handleError(res, err))
 };
-const getSomeProductsForCatalog = (req,res) => {
+const getSomeProductsForCatalog = (req: Request | undefined ,res: Response) => {
 
-    const skipProducts = +req.query.skip;
+    if (req && req.query && req.query.skip !== undefined){
+        
+        const skipProducts = +req.query.skip;
 
-    Product
+        Product
         .find().skip(skipProducts).limit(15)
         .then((product) => {
             res
@@ -36,9 +40,10 @@ const getSomeProductsForCatalog = (req,res) => {
                 .json(product)
         })
         .catch((err) => handleError(res, err))
+    }
 }
 
-const getProductById = (req, res) => {
+const getProductById = (req: Request, res: Response) => {
     Product
     .find({"productID": `${req.params.id}`})
     .then((product) => {

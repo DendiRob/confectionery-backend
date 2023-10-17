@@ -2,7 +2,6 @@ import express  from "express";
 import mongoose from "mongoose";
 import productRouter from './routes/product-routes.js';
 import vacancyRouter from './routes/vacancy-routes.js';
-import mailRouter from './routes/mail-routes.js';
 import cors from 'cors';
 import 'dotenv/config';
 
@@ -22,7 +21,6 @@ app.use(cors());
 app.use(express.json());
 app.use(productRouter);
 app.use(vacancyRouter);
-app.use(mailRouter);
 
 
 mongoose
