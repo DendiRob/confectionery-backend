@@ -26,7 +26,7 @@ npm install
 ```
 Запустите приложение
 ```
-npm start
+npm run dev
 ```
 <a name="workflow"></a>
 ## Процесс разработки
