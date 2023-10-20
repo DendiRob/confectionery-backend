@@ -36,6 +36,7 @@ npm run dev
 - node.js
 - express
 - mongoose
+- TypeScript
 
 <a name="future"></a>
 ## Будущее проекта
