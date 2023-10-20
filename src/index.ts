@@ -1,10 +1,12 @@
 import express  from "express";
 import mongoose from "mongoose";
-import productRouter from './routes/product-routes.js';
-import vacancyRouter from './routes/vacancy-routes.js';
 import cors from 'cors';
 import 'dotenv/config';
+import cookieParser from "cookie-parser";
 
+import productRouter from './routes/product-routes.js';
+import vacancyRouter from './routes/vacancy-routes.js';
+import userRouter from './routes/user-routes.js'
 
 
 const PORT = 3004;
@@ -19,8 +21,11 @@ app.use('/pictures',express.static('pictures'))
 
 app.use(cors());
 app.use(express.json());
+app.use(cookieParser());
+
 app.use(productRouter);
 app.use(vacancyRouter);
+app.use(userRouter);
 
 
 mongoose
@@ -39,7 +44,6 @@ mongoose
 app.get('/', (req: express.Request , res: express.Response ) => {
     res.send('Hello everyone! This is main page of the confect.. back')
 });
-
 app.listen(PORT, (err?: unknown) => {
     if (err) {
         if (typeof err === "string") {

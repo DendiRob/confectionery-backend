@@ -5,6 +5,7 @@ const handleError = (res: Response, error: Error) => {
     res.status(500).json({error})
 }
 
+
 const getAllVacancies = (req: Request, res: Response) => {
     Vacancy
         .find()
