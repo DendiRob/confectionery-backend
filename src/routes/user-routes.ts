@@ -6,6 +6,7 @@ import {
     login,
     logout,
     activate,
+    refresh
  } from '../controllers/user-controller.js';
 
 const router = Router();
@@ -18,7 +19,7 @@ registration
 router.post('/login', login);
 router.post('/logout', logout);
 router.get('/activate/:link', activate);
-router.get('/refresh');
+router.get('/refresh', refresh);
 router.get('/users', getUsers);
 
 
