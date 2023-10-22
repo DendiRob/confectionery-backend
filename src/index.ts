@@ -7,6 +7,7 @@ import cookieParser from "cookie-parser";
 import productRouter from './routes/product-routes.js';
 import vacancyRouter from './routes/vacancy-routes.js';
 import userRouter from './routes/user-routes.js'
+import errorMeddleware from "./middlewares/error-meddleware.js";
 
 
 const PORT = 3004;
@@ -26,6 +27,7 @@ app.use(cookieParser());
 app.use(productRouter);
 app.use(vacancyRouter);
 app.use(userRouter);
+app.use(errorMeddleware);
 
 
 mongoose
