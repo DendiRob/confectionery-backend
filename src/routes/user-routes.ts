@@ -8,6 +8,7 @@ import {
     activate,
     refresh
  } from '../controllers/user-controller.js';
+import authMiddleware from '../middlewares/auth-middleware.js';
 
 const router = Router();
 
@@ -20,7 +21,7 @@ router.post('/login', login);
 router.post('/logout', logout);
 router.get('/activate/:link', activate);
 router.get('/refresh', refresh);
-router.get('/users', getUsers);
+router.get('/users',authMiddleware as any, getUsers);
 
 
 export default router;

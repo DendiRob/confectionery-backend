@@ -67,7 +67,8 @@ const refresh = async (req: Request, res: Response, next: NextFunction) => {
 
 const getUsers = async (req: Request, res: Response, next: NextFunction) => {
     try {
-        res.json([1,2,3]);
+        const users = await userService.getAllUsers()
+        return res.json(users)
     } catch(e) {
         next(e);
     }

@@ -85,5 +85,10 @@ class UserService {
         return userData
 
     }
+
+    async getAllUsers() {
+        const users = await UserModel.find()
+        return users
+    }
 }
 export default new UserService()
