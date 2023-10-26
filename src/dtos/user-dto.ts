@@ -6,12 +6,12 @@ interface UserDtoTypes extends Document {
 }
 
 export default class UserDto {
-    email;
+    email: string;
     id: Types.ObjectId; 
     isActivated;
 
     constructor(model: UserDtoTypes) {
-        this.email = model.email;
+        this.email = model.email!;
         this.id = model._id; 
         this.isActivated = model.isActivated;
     }
