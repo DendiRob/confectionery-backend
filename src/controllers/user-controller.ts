@@ -9,7 +9,7 @@ const registration = async (req: Request, res: Response, next: NextFunction) => 
     try {
         const errors = validationResult(req);
         if(!errors.isEmpty()) {
-            return next(ApiError.BadRequest('Ошибка валидаций', errors.array()))
+            return next(ApiError.BadRequest('Пароль должен содержать не менее 3 символов, и адрес электронной почты должен иметь формат example@mail.com' ,errors.array()))
         }
         const {email, password} = req.body;
         const userData = await userService.registration(email, password);
