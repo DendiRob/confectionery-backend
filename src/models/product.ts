@@ -44,6 +44,10 @@ const ProductSchema = new mongoose.Schema({
     box_weight:{
         type: Number,
         required: true,
+    },
+    isActive:{
+        type: Boolean,
+        required: true,
     }
 });
 
