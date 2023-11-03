@@ -21,7 +21,7 @@ export default class ApiError extends Error {
         return new ApiError(400, message, errors);
     }
 
-    static ProductNotExits(message: string, errors: errorsType){
+    static ItemNotExits(message: string, errors: errorsType){
         return new ApiError(500, message, errors)
     }
 }
