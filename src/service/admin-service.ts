@@ -24,5 +24,12 @@ class AdminService {
         
         return vacancy
     }
+
+    async addVacancy(newVacancy: object) {
+        console.log(newVacancy)
+        const addNewVacancy = await Vacancy.create(newVacancy);
+        //добавить обработчик ошибок
+        return addNewVacancy
+    }
 }
 export default new AdminService()

@@ -22,3 +22,14 @@ export const updateVacancy = async (req: Request, res: Response, next: NextFunct
         next(e)
     }
 };
+
+export const addVacancy = async (req: Request, res: Response, next: NextFunction) => {
+    try {
+        const { newVacancy } = req.body;
+        const vacancy = await AdminService.addVacancy(newVacancy)
+        
+        return res.json(vacancy)
+    } catch(e) {
+        next(e)
+    }
+};
